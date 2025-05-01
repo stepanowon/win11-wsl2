@@ -6,7 +6,6 @@
 * 'Linux용 Windows 하위 시스템'과 'Virtual Machine Platform' 체크 후 확인
   - 이미 되어 있다면 Uncheck 후 확인하고 재부팅 후 다시 시도
   - '필요한 파일 다운로드' 화면이 나타나면 '다운로드'를 진행함
-* Power Shell을 관리자 권한으로 실행 후 다음 명령어 실행
 * 설치 완료후 재부팅
 
 ### WSL 설치
